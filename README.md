@@ -1,22 +1,18 @@
-# KintoHub {name}-example
+# KintoHub Hugo Example
 
 ## Overview
-TODO: Cool description / goal of what technology you are bringing onto the plate with what language. This should be sweet and concise.
+Hugo is one of the fastest static site generators in the world - thanks to Golang. This example will show you how to deploy that power on KintoHub!
 
 [Live Example](live/example/on/kintohub)
 
 __About KintoHub:__
 
 KintoHub aligns teams to ship & operate cloud native apps with ease. [Learn More](https://www.kintohub.com)
-## [Optional] Requirements
-
-- Ensure you have an account on [KintoHub](www.kintohub.com/sign-up)
-- [Optional] Required Kintohub features: [list features] (like pro sub features)
-- [Optional] specific packages needed for project to run
 
 ## Deployment
-1. Apply this template to your [Github](https://github.com/kintohub/example-template/generate)
-2. Create a [KintoBlockType](www.link.to.create.kintoblock.type.here) and include:
+1. Apply this template to your [Github](https://github.com/kintohub/hugo-template/generate)
+2. Create a [Website KintoBlock](https://beta.kintohub.com/app/dashboard/) on KintoHub
+3.
 
 You're now good to build! Click `Build Latest Commit`. Once complete, Click  Now click `Add To Project`.
 
